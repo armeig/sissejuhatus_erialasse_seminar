@@ -13,3 +13,11 @@ img {
     width: 25%;
     height: 25%;
 }
+table, th, td {
+    border: 1px solid;
+    width: 50%;
+    border-collapse: collapse;
+}
+table {
+    background-color: aqua;
+}
