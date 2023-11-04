@@ -23,4 +23,12 @@ table {
 }
 body {
     background-color: aliceblue;
+    display: flex;
+}
+.column {
+    flex: 1;
+    float: left;
+    width: 50%;
+    padding: 20px;
+    border: 1px solid #ccc;
 }
