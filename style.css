@@ -1,2 +1,15 @@
-h1 {color: black;font-family:'Courier New', Courier, monospace;}
-p {color: black; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;font-size: small; text-align: center;}
+h1 {
+    color: black;
+    font-family:'Courier New', Courier, monospace;
+}
+p {
+    color: black; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: small; 
+    text-align: center;
+}
+img {
+    border: 5px solid #c17878;
+    width: 25%;
+    height: 25%;
+}
